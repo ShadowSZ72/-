@@ -1,4 +1,4 @@
-name1 = input('введите число: ')
+name1 = input('введите число: ') # comment
 name2 = input('что сделать? ')
 name3 = input('введите второе число: ')
 print('{} {} {} = '.format(name1 , name2 , name3))
